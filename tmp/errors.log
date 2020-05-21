@@ -1,0 +1,1323 @@
+[2020-04-30 19:57:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\public\index.php | Строка: 8 
+=======
+[2020-04-30 19:57:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\public\index.php | Строка: 8 
+=======
+[2020-04-30 19:58:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\public\index.php | Строка: 8 
+=======
+[2020-04-30 19:58:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\public\index.php | Строка: 8 
+=======
+[2020-04-30 19:58:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\public\index.php | Строка: 8 
+=======
+[2020-04-30 20:02:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\public\index.php | Строка: 8 
+=======
+[2020-04-30 20:03:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\public\index.php | Строка: 8 
+=======
+[2020-04-30 22:45:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 29 
+=======
+[2020-04-30 22:46:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 29 
+=======
+[2020-04-30 23:05:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 29 
+=======
+[2020-04-30 23:17:53] Текст ошибки: Контроллер app\controllers\PageNewController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-04-30 23:18:00] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-04-30 23:18:34] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 34 
+=======
+[2020-05-01 11:25:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-01 12:09:36] Текст ошибки: Не найден вид | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\base\View.php | Строка: 38 
+=======
+[2020-05-01 12:18:14] Текст ошибки: Не найден шаблон default | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\base\View.php | Строка: 49 
+=======
+[2020-05-01 15:44:28] Текст ошибки: Unsupported database (msql). | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 460 
+=======
+[2020-05-01 15:46:16] Текст ошибки: Unsupported database (msql). | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 460 
+=======
+[2020-05-01 15:46:50] Текст ошибки: Unsupported database (msql). | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 460 
+=======
+[2020-05-01 15:48:53] Текст ошибки: Unsupported database (msql). | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 460 
+=======
+[2020-05-01 15:48:54] Текст ошибки: Unsupported database (msql). | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 460 
+=======
+[2020-05-01 15:50:49] Текст ошибки: Нет соединения с бд | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Db.php | Строка: 15 
+=======
+[2020-05-01 15:53:31] Текст ошибки: Нет соединения с бд | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Db.php | Строка: 15 
+=======
+[2020-05-01 15:53:33] Текст ошибки: Нет соединения с бд | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Db.php | Строка: 15 
+=======
+[2020-05-01 15:53:34] Текст ошибки: Нет соединения с бд | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Db.php | Строка: 15 
+=======
+[2020-05-01 15:55:20] Текст ошибки: Нет соединения с бд | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Db.php | Строка: 15 
+=======
+[2020-05-02 12:18:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-05 14:02:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 11:18:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 11:21:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 11:27:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 16:20:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'myshop.category' doesn't exist | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-06 16:20:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 16:21:19] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookshop.products' doesn't exist | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-06 22:14:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:16:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:23:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:24:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:25:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:26:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:29:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:29:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:30:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:30:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:31:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:32:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:33:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:34:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:34:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:35:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:36:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:37:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:38:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:40:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:41:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:41:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:42:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:43:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:43:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:43:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:47:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:55:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:55:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:57:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:58:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:58:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-06 22:58:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 10:37:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 11:06:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 11:15:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 11:16:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 11:19:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 11:19:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 11:19:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:09:00] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-09 12:14:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:14:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:15:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:29:00] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-09 12:32:08] Текст ошибки: Не найден вид C:\OpenServer\domains\framework.loc/app/views/Product/view.php | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\base\View.php | Строка: 42 
+=======
+[2020-05-09 12:32:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 12:32:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-09 15:41:46] Текст ошибки: Bean Type is invalid | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Repository.php | Строка: 361 
+=======
+[2020-05-09 15:42:34] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 15:44:21] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 15:45:05] Текст ошибки: Bean Type is invalid | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Repository.php | Строка: 361 
+=======
+[2020-05-09 15:45:08] Текст ошибки: Bean Type is invalid | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Repository.php | Строка: 361 
+=======
+[2020-05-09 15:45:08] Текст ошибки: Bean Type is invalid | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Repository.php | Строка: 361 
+=======
+[2020-05-09 16:00:04] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$alias' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:00:18] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 2 | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:01:10] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:01:11] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:01:27] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:01:29] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:02:08] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:02:09] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:02:10] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:02:10] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:02:55] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'institut' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:20:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-09 16:38:53] Текст ошибки: Plugin 'getOne' does not exist, add this plugin using: R::ext('getOne') | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 3264 
+=======
+[2020-05-09 16:39:06] Текст ошибки: Plugin 'get' does not exist, add this plugin using: R::ext('get') | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 3264 
+=======
+[2020-05-09 16:39:21] Текст ошибки: Identifier does not conform to RedBeanPHP security policies. | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Строка: 772 
+=======
+[2020-05-09 16:41:35] Текст ошибки: Identifier does not conform to RedBeanPHP security policies. | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Строка: 772 
+=======
+[2020-05-09 16:52:35] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM product p
+                INNER JOIN product_info pi WHERE p.id =' at line 1 | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-09 16:56:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 19 
+=======
+[2020-05-09 16:57:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 19 
+=======
+[2020-05-09 17:01:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-10 13:21:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 12:42:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 13:05:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:54:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:54:27] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-11 14:54:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:54:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:55:26] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-11 14:55:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:55:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:57:07] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-11 14:57:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:57:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:57:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:57:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:57:39] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-11 14:57:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:57:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:57:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:58:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 14:58:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 15:03:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 15:15:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 15:15:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 15:21:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 15:22:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 18:27:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 18:40:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 22 
+=======
+[2020-05-11 18:45:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 22 
+=======
+[2020-05-11 19:37:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-11 19:40:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:14:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:15:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:47:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:47:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:47:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:49:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:51:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 16:54:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 18:24:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 19:18:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 19:18:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 19:19:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 19:21:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 20:51:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-12 20:52:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-13 18:37:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-13 18:38:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-13 18:38:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-13 18:48:01] Текст ошибки: Страница не найдена! | Файл: C:\OpenServer\domains\framework.loc\app\controllers\CategoryController.php | Строка: 17 
+=======
+[2020-05-13 19:03:55] Текст ошибки: Страница не найдена! | Файл: C:\OpenServer\domains\framework.loc\app\controllers\CategoryController.php | Строка: 17 
+=======
+[2020-05-13 19:03:56] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-13 19:12:00] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-13 19:16:21] Текст ошибки: Не найден вид C:\OpenServer\domains\framework.loc/app/views/Category/view.php | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\base\View.php | Строка: 42 
+=======
+[2020-05-13 23:27:33] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-14 11:07:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-14 11:58:43] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$ids' in 'where clause' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 12:07:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-14 12:08:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-14 13:13:51] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-14 14:14:44] Текст ошибки: Rule 'requires' has not been registered with Valitron\Validator::addRule(). | Файл: C:\OpenServer\domains\framework.loc\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 1383 
+=======
+[2020-05-14 15:00:49] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 15:01:46] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 15:02:42] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'address' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 15:08:37] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '123@mail.ru' for key 'mail' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 15:47:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bookshop.user' doesn't exist | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 17:12:56] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-14 18:16:12] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-14 19:43:49] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:47:14] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:49:22] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:50:44] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:50:59] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:52:27] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:56:06] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$sql_part' at line 1 | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:57:19] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 19:59:29] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Институт' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 20:00:15] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'qty' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 20:00:51] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'field list' | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194 
+=======
+[2020-05-14 20:32:04] Текст ошибки: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. | Файл: C:\OpenServer\domains\framework.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Mime\Headers\MailboxHeader.php | Строка: 345 
+=======
+[2020-05-14 20:44:04] Текст ошибки: Connection could not be established with host smtp.mail.ru [php_network_getaddresses: getaddrinfo failed: ���� ���� ����������.  #0] | Файл: C:\OpenServer\domains\framework.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Строка: 277 
+=======
+[2020-05-15 15:47:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 19:03:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 19:05:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 19:06:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 19:06:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 19:39:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 19:40:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 19:42:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 20:43:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 20:52:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 21:05:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 21:07:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 21:19:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-15 23:33:56] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-16 11:08:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 11:17:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 11:23:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 11:24:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 11:53:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:12:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:17:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:21:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:23:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:23:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:23:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:23:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:25:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:32:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:40:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:41:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 12:46:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:00:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:01:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:02:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:03:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:09:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:09:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:10:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:22:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:23:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:25:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:42:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:44:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:48:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:49:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:55:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 13:57:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:00:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:01:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:02:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:07:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:07:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:14:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:17:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:19:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:20:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:39:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:40:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:41:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:42:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:43:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:53:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:53:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:57:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:57:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 14:57:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 15:00:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 15:03:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 15:06:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 15:09:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 15:25:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 15:26:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 17:47:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 17:53:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 17:53:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:04:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:05:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:07:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:11:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:21:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:25:51] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-16 18:33:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:36:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:36:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:36:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:38:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:38:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 18:48:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 19:39:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 19:43:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 19:54:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 19:54:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:00:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:00:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:01:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:01:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:02:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:06:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:08:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:08:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:10:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:10:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:11:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:16:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:18:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:19:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:20:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:20:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:21:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:24:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 20:25:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 23:42:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 23:45:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 23:51:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-16 23:53:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:14:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:17:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:20:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:23:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:27:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:28:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:29:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:31:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:58:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 00:58:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:01:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:03:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:09:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:11:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:16:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:23:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:24:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:24:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:25:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:25:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:27:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:27:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:29:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:29:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:29:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:31:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:53:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 01:53:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 12:57:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 13:13:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 13:13:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 13:13:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 13:14:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 13:14:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 13:38:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 13:39:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 14:08:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 14:52:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:04:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:06:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:07:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:08:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:30:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:30:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:32:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 15:36:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:02:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:13:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:14:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:16:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:20:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:22:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:35:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:39:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:39:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:40:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:41:40] Текст ошибки: Метод app\controllers\UserController::orderAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-17 16:50:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:51:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:53:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:53:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:54:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:56:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:58:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 16:58:39] Текст ошибки: Метод app\controllers\UserController::orderAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-17 17:02:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:12:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:13:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:14:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:16:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:17:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:19:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:19:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:20:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 17:23:26] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-17 20:37:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 20:40:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 20:43:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 20:48:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 20:52:21] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-17 20:52:31] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-17 20:58:01] Текст ошибки: Метод app\controllers\CategoryController::indexAction не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 37 
+=======
+[2020-05-17 20:59:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:05:12] Текст ошибки: Страница не найдена! | Файл: C:\OpenServer\domains\framework.loc\app\controllers\CategoryController.php | Строка: 20 
+=======
+[2020-05-17 21:24:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:24:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:24:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:24:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:26:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:29:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:30:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:53:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:53:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:58:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 21:58:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:09:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:09:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:09:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:10:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:20:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:21:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:23:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:23:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:24:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:24:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:25:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:28:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:31:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:31:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:33:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:33:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:34:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:36:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:36:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:36:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:37:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 22:37:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 23:25:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-17 23:26:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:44:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:45:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:45:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:45:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:45:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:46:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:46:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:47:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 00:47:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 01:00:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 01:01:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:02:37] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:02:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:03:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:05:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:06:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:06:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:07:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:08:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:09:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-18 01:21:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 01:26:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 01:26:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 01:30:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 01:33:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 01:33:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 02:01:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 02:04:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 02:07:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-18 11:00:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 00:16:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 01:26:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 01:50:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 01:52:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 01:54:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:04:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:08:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:15:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:15:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:17:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:18:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:26:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:29:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:30:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:32:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:33:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:33:49] Текст ошибки: Контроллер app\controllers\GetController не найден | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 40 
+=======
+[2020-05-19 02:34:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 02:34:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-19 11:42:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 11:08:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 11:24:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 16:46:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:12:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:13:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:14:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:14:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:16:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:16:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:22:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:23:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:26:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:28:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:29:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:30:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:30:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:33:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:37:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:38:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:38:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:39:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:39:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 17:39:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:40:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:49:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 17:50:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 18:35:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 18:42:12] Текст ошибки: Plugin 'getRows' does not exist, add this plugin using: R::ext('getRows') | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 3264 
+=======
+[2020-05-20 18:42:42] Текст ошибки: Identifier does not conform to RedBeanPHP security policies. | Файл: C:\OpenServer\domains\framework.loc\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Строка: 772 
+=======
+[2020-05-20 19:22:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:22:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:26:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:27:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:27:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:28:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:28:09] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:28:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:28:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:29:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:29:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:30:20] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:30:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:31:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:32:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:34:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:34:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:35:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:35:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:37:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:37:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:38:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:38:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:38:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:38:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:39:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:39:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:39:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:40:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:40:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:40:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:40:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:41:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:42:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:43:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:44:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:44:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:44:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:44:46] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:44:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:45:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:45:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:46:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:46:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:46:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:46:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:48:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:48:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:49:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:49:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:50:42] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:50:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:52:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:52:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:57:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:57:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:57:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:57:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:57:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:57:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:57:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:58:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:58:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:58:35] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:58:40] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:58:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:58:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 19:58:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:00:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:00:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:01:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:01:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:02:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:04:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:04:38] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:04:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:10:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:10:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:10:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:14:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:14:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:14:59] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:15:07] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:15:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:16:22] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:16:36] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:16:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:20:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:20:57] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:24:14] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:27:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:29:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:30:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:30:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:30:28] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:30:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:38:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:38:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\app\controllers\ProductController.php | Строка: 18 
+=======
+[2020-05-20 20:39:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:40:01] Текст ошибки: Не найден вид C:\OpenServer\domains\framework.loc/app/views/Main/special.php | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\base\View.php | Строка: 42 
+=======
+[2020-05-20 20:41:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 20:48:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:01:17] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:02:27] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:04:08] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:04:55] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:05:00] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:09:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:10:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:14:47] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:15:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:18:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:19:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:21:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:21:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:25:19] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:25:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:26:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:28:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:34:58] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:38:45] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:49:41] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 21:50:02] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 22:00:10] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 22:09:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 22:10:33] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 22:11:18] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 22:14:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 22:41:13] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-20 22:41:32] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 10:39:25] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 10:41:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 12:11:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 12:13:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 13:57:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 13:59:12] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:00:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:02:05] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:05:31] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:18:34] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:19:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:24:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:25:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:26:01] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:32:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:38:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 14:40:21] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======
+[2020-05-21 23:34:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\framework.loc\vendor\myframework\core\Router.php | Строка: 43 
+=======

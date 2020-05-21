@@ -1,0 +1,7 @@
+a:2:{s:4:"data";s:820:"    <li class="horizontal-menu__li"><a class="horizontal-menu__a" href="category/hudozhestvennaya_literatura">Художественная литература</a></li>
+    <li class="horizontal-menu__li"><a class="horizontal-menu__a" href="category/knigi-dlya-detei">Книги для детей</a></li>
+    <li class="horizontal-menu__li"><a class="horizontal-menu__a" href="category/obrazovanie">Образование</a></li>
+    <li class="horizontal-menu__li"><a class="horizontal-menu__a" href="category/nauka-i-tehnika">Наука и техника</a></li>
+    <li class="horizontal-menu__li"><a class="horizontal-menu__a" href="category/uvlecheniya">Увлечения</a></li>
+    <li class="horizontal-menu__li"><a class="horizontal-menu__a" href="category/psihologiya">Психология</a></li>
+";s:8:"end_time";i:1590096888;}

@@ -1,0 +1,112 @@
+a:2:{s:4:"data";s:3941:"<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/hudozhestvennaya_literatura" class="vertical-menu__main-link">Художественная литература</a>
+                    <!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <ul>
+        <li><a href="category/fantastika_fentezi" class="vertical-menu__sub-link">Фантастика. Фэнтези</a></li>
+                        <!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <ul>
+        <li><a href="category/mistika_uzhasy" class="vertical-menu__sub-link">Мистика. Ужасы</a></li>
+            </ul>
+            </ul>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/knigi-dlya-detei" class="vertical-menu__main-link">Книги для детей</a>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/obrazovanie" class="vertical-menu__main-link">Образование</a>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/nauka-i-tehnika" class="vertical-menu__main-link">Наука и техника</a>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/uvlecheniya" class="vertical-menu__main-link">Увлечения</a>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/" class="vertical-menu__main-link">Подарочные издания</a>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/" class="vertical-menu__main-link">Книги на иностранных языках
+</a>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/" class="vertical-menu__main-link">Красота. Здоровье. Спорт</a>
+            </li>
+<!--<li>
+    <a href="category/" class="vertical-menu__main-link"></a>
+            <ul>
+                        <li><a href="category/" class="vertical-menu__sub-link"></a></li>
+        </ul>
+    </li>-->
+
+    <li>
+        <a href="category/psihologiya" class="vertical-menu__main-link">Психология</a>
+            </li>
+";s:8:"end_time";i:1590096888;}
